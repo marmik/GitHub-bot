@@ -13,11 +13,12 @@
   "author": "Marmik Patel",
   "license": "ISC",
   "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "axios": "^1.6.2",
     "jsonfile": "^6.1.0",
     "moment": "^2.29.4",
     "random": "^4.1.0",
     "simple-git": "^3.20.0"
   },
-  "devDependencies": {},
   "keywords": []
 }
