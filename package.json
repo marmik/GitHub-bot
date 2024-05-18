@@ -3,18 +3,20 @@
   "version": "1.0.0",
   "description": "Do want to be cool kind in school?",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/marmik/GitHub-bot.git)"
+    "url": "https://github.com/marmik/GitHub-bot.git"
   },
   "author": "Marmik Patel",
   "license": "ISC",
   "dependencies": {
     "@octokit/rest": "^20.0.2",
     "axios": "^1.6.2",
+    "google": "^2.1.0",
     "jsonfile": "^6.1.0",
     "moment": "^2.29.4",
     "random": "^4.1.0",
